@@ -1,5 +1,7 @@
 # 👋 Hello World, I'm Aayushi Jain!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaayushijain&label=Profile%20views&color=0e75b6&style=flat" alt="iamaayushijain" /> </p>
+
 ### 🚀 About Me  
 🌱 I’m an **AI & Full-Stack Developer** currently pursuing **B.Tech in Computer Engineering** at **NSUT, New Delhi**.  
 👩‍💻 I love building intelligent systems that merge creativity with computation — from AI pipelines to full-stack products.  
